@@ -1,0 +1,161 @@
+#title{
+  background-color: #ff4c68;
+  height:90vh;
+
+  position: relative; /* To create a new stacking context for absolute positioning */
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
+}
+
+#features{
+  background-color: "white";
+  padding-top : 7%;
+  padding-bottom: 7%;
+}
+
+.container-fluid {
+  padding-left: 15% !important;
+  padding-right: 15% !important;
+  padding-top: 3% !important;
+
+}
+
+
+#moto{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 20%;
+  margin-bottom: 10%;
+  color: white;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.navbar .nav-link {
+  color: white  !important;
+}
+
+#logo {
+  font-family:'Ubuntu', sans-serif;
+  color: white  !important;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+#apple-logo{
+  height: 24px;
+  width: 20px;
+  margin: 0px 6px 5px 4px;
+}
+
+#download{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+}
+#phone-pic{
+  transform: rotate(25deg);
+  margin-top: 20%;
+
+}
+.nav-item{
+  font-size: 1.2rem;
+  padding: 0px 20px;
+}
+.feature-section {
+  flex-direction: column;
+}
+
+#feature-detail{
+  font-weight: normal;
+  color: #8f8f8f
+}
+h2{
+  font-family: "Montserrat";
+  font-size: 4rem;
+  line-height: 1.5;
+  text-self: center;
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+
+}
+
+.feature-content {
+  padding: 25px;
+  text-align: center;
+  padding: 25px;
+}
+
+.enlarge-icon {
+  color: #ef8172;
+  transform: scale(2);
+  padding-bottom: 4%;
+}
+.enlarge-icon:hover {
+  color: #ff4c68;
+  padding-bottom: 3%;
+}
+.col-lg-4{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+/* Testimonials Section  */
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 12%;
+  margin: 20px 20px 50px
+}
+.slide{
+  padding-top:5%;
+}
+.inner{
+  padding-bottom:10%;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.section-heading{
+  font-style: "Ubuntu";
+  text-align: center;
+}
+
+.section-heading1{
+  font-style: "Ubuntu";
+  text-align: center;
+  color:#ffff;
+  font-weight:bold;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+#cta{
+  background-color: #ff4c68;
+  height: 40vh;
+}
+
+#footer{
+  padding-top:3rem;
+  padding-bottom:3rem;
+  text-align: center;
+
+}
