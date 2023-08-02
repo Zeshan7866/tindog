@@ -203,10 +203,20 @@ h4{
   }
   #phone-pic{
     position:static;
+    padding-top: 40%;
     margin-right: 0;
     margin-left: 0;
     margin-top: 2rem;
     transform: scale(150%);
+
+  }
+  #phone-pic:hover{
+    position:static;
+    padding-top: 40%;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 2rem;
+    transform: scale(140%);
 
   }
   #features{
@@ -217,7 +227,7 @@ h4{
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
   }
   #moto{
     font-size: 4.5rem;
