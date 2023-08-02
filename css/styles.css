@@ -206,6 +206,8 @@ h4{
     margin-right: 0;
     margin-left: 0;
     margin-top: 2rem;
+    transform: scale(150%);
+
   }
   #features{
     padding-bottom: 0;
@@ -215,7 +217,13 @@ h4{
     display: flex;
     align-items: center;
     justify-content: center;
+    
   }
+  #moto{
+    font-size: 4.5rem;
+    line-height: 2;
+  }
+
 
 
 
